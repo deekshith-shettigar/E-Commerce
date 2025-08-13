@@ -36,3 +36,4 @@ A modern, responsive Ecommerce website inspired by the CartLoop template. This p
 - JavaScript for interactivity
 - Responsive design principles
 
+**Live Demo**: [https://cartloop.netlify.app/](https://cartloop.netlify.app/) 
